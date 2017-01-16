@@ -7,7 +7,7 @@
 class Home extends Controller
 {
     /**
-     * The default controller method.
+     * The default home controller method.
      *
      * @return void
      */
